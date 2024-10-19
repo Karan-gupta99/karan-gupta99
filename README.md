@@ -5,11 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=karan-gupta99&label=Profile%20views&color=0e75b6&style=flat" alt="karan-gupta99" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/guptakaran09" target="blank">
-    <img src="https://img.shields.io/twitter/follow/guptakaran09?logo=twitter&style=for-the-badge" alt="guptakaran09" />
-  </a>
-</p>
+
 
 - 🌱 I’m currently learning **Data Analytics and Visualization Techniques**
 - 📫 How to reach me: **karangupta3257@gmail.com**
